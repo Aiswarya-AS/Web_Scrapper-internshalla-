@@ -1,7 +1,7 @@
 Internshall Scrapping
 Using the thrid party libraries such as "requests" (to fetch URL), Beatifulsoup(for scrapping) and xlwt(to export data to excel) created a Internshalla scrapping project.
 
-FILTERS AVAILABLE<br>
+Filters:<br>
 <ul type="circle">
 <li>Include work from home<br>
 <li>Part-time<br>
@@ -13,7 +13,7 @@ FILTERS AVAILABLE<br>
 <li>select multiple Category<br>
 </ul>
 
-It stores the following data of every Instership
+It stores the following data of every Instership:
 <ul type="circle">
 <li>Title</li>
 <li>Company Name
