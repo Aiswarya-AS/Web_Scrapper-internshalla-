@@ -3,7 +3,7 @@ Using the thrid party libraries such as "requests" (to fetch URL), Beatifulsoup(
 
 FILTERS AVAILABLE<br>
 <ul type="circle">
-<li>Include work from home</li><br>
+<li>Include work from home<br>
 <li>Part-time<br>
 <li>Internships for women<br>
 <li>Internships with job offer<br>
