@@ -1,4 +1,4 @@
-Internshall Scrapping
+<b>Internshall Scrapping</b><br>
 Using the thrid party libraries such as "requests" (to fetch URL), Beatifulsoup(for scrapping) and xlwt(to export data to excel) created a Internshalla scrapping project.
 
 Filters:<br>
